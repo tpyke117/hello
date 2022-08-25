@@ -1,7 +1,7 @@
 /**
  * Author: Thomas Pyke
  *         thomaspyke@unomaha.edu
- * Date: 2022/08/23
+ * Date: 2022/08/25
  *
  * Hack 1 Print Name File
  *
@@ -11,7 +11,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Thomas Pyke\n");
+  printf("Thomas Pyke!\n");
+  printf("Computer Engineering\n");
 
   return 0;
 }
